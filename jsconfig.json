@@ -1,0 +1,9 @@
+// 联想路径配置
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*":["src/*"]
+        }
+    }
+}
