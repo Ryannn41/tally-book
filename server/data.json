@@ -202,6 +202,41 @@
       "date": "2023-12-31 10:36:42",
       "useFor": "travel",
       "id": 36
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-12-06T08:53:00.515Z",
+      "useFor": "drinks",
+      "id": 37
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-12-06T08:53:02.987Z",
+      "useFor": "dessert",
+      "id": 38
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-12-06T08:53:41.322Z",
+      "useFor": "food",
+      "id": 39
+    },
+    {
+      "type": "pay",
+      "money": -20,
+      "date": "2023-12-06T08:54:05.479Z",
+      "useFor": "dessert",
+      "id": 40
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-12-06T08:54:21.970Z",
+      "useFor": "dessert",
+      "id": 41
     }
   ]
 }
