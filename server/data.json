@@ -237,6 +237,12 @@
       "date": "2023-12-06T08:54:21.970Z",
       "useFor": "dessert",
       "id": 41
+    },
+    {
+      "type": "income",
+      "money": 10000,
+      "useFor": "salary",
+      "id": 42
     }
   ]
 }
